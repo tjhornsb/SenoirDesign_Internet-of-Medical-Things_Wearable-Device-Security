@@ -1,0 +1,1 @@
+These source code files are for an Android Studio Bumblebee Java project. Features include showing bonded devices, scanning for Bluetooth devices, establishing a GATT connection with a device, and retrieving GATT characteristics.
