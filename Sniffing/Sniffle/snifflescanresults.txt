@@ -1,0 +1,445 @@
+Starting scanner. Press CTRL-C to stop scanning and show results.
+Found 3B:8B:FC:DA:0B:FA (NRPA)...
+Found 53:8B:FC:5C:47:CE (RPA)...
+Found 60:45:CD:81:0A:79 (RPA)...
+Found 74:35:5B:80:BD:FE (RPA)...
+Found DA:A2:E1:F6:63:30 (Static)...
+Found 2C:AA:8E:8F:85:ED (Public)...
+Found C7:40:62:CB:D9:C8 (Static)...
+Found 64:0F:D8:AC:3A:B0 (RPA)...
+Found E2:0A:8A:6C:00:23 (Public)...
+Found 52:D8:B1:D7:98:B1 (RPA)...
+Found FC:17:88:AC:6A:6C (Static)...
+Found FA:78:E8:03:35:61 (Static)...
+Found DE:5E:EE:07:B5:7B (Public)...
+Found F0:2B:87:25:D8:F5 (Static)...
+Found CF:16:38:62:55:EE (Static)...
+Found 47:32:40:7F:90:9B (RPA)...
+Found 11:28:93:44:7A:73 (NRPA)...
+Found 43:F4:72:6E:D1:03 (RPA)...
+Found 74:0B:8C:5B:9D:1F (RPA)...
+Found 4B:F7:68:DD:5B:47 (RPA)...
+Found 71:A6:02:2C:14:54 (RPA)...
+Found 6D:A6:23:83:82:15 (RPA)...
+Found 48:C4:54:6A:5A:59 (RPA)...
+
+
+Scan Results:
+================================================================================
+AdvA: DA:A2:E1:F6:63:30 (Static) RSSI: -44 Hits: 241
+
+Advertisement:
+Timestamp: 479.567664	Length: 16	RSSI: -44	Channel: 37	PHY: 1M
+Ad Type: ADV_NONCONN_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 14
+AdvA: DA:A2:E1:F6:63:30 (Static)
+42 0E 30 63 F6 E1 A2 DA 07 FF 4C 00 12 02 00 02
+B     0  c                    L               
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: 47:32:40:7F:90:9B (RPA) RSSI: -44 Hits: 816
+
+Advertisement:
+Timestamp: 477.402507	Length: 26	RSSI: -44	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 24
+AdvA: 47:32:40:7F:90:9B (RPA)
+40 18 9B 90 7F 40 32 47 02 01 1A 02 0A 07 0B FF 4C 00 10 06 30 1A A7 2A 14 05
+@              @  2  G                          L           0        *      
+
+Scan Response:
+Timestamp: 477.403255	Length: 8	RSSI: -44	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 47:32:40:7F:90:9B (RPA)
+44 06 9B 90 7F 40 32 47
+D              @  2  G
+================================================================================
+
+================================================================================
+AdvA: C7:40:62:CB:D9:C8 (Static) RSSI: -54 Hits: 678
+
+Advertisement:
+Timestamp: 479.168085	Length: 38	RSSI: -54	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 36
+AdvA: C7:40:62:CB:D9:C8 (Static)
+40 24 C8 D9 CB 62 40 C7 02 01 06 11 06 BA 56 89 A6 FA BF A2 BD 01 46 7D 6E 00 FB AB AD 08 16 0A 18 18 00 F8 97 03
+@  $           b  @                       V                       F  }  n                                       
+
+Scan Response:
+Timestamp: 479.168929	Length: 25	RSSI: -54	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 23
+AdvA: C7:40:62:CB:D9:C8 (Static)
+44 17 C8 D9 CB 62 40 C7 07 09 46 6C 65 78 20 32 02 0A 05 05 12 08 00 10 00
+D              b  @           F  l  e  x     2                           
+================================================================================
+
+================================================================================
+AdvA: 6D:A6:23:83:82:15 (RPA) RSSI: -54 Hits: 608
+
+Advertisement:
+Timestamp: 479.548743	Length: 25	RSSI: -53	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 23
+AdvA: 6D:A6:23:83:82:15 (RPA)
+40 17 15 82 83 23 A6 6D 02 01 1A 02 0A 0C 0A FF 4C 00 10 05 0A 1C 12 17 26
+@              #     m                          L                       &
+
+Scan Response:
+Timestamp: 479.549483	Length: 8	RSSI: -54	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 6D:A6:23:83:82:15 (RPA)
+44 06 15 82 83 23 A6 6D
+D              #     m
+================================================================================
+
+================================================================================
+AdvA: 53:8B:FC:5C:47:CE (RPA) RSSI: -55 Hits: 3092
+
+Advertisement:
+Timestamp: 479.433389	Length: 25	RSSI: -55	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 23
+AdvA: 53:8B:FC:5C:47:CE (RPA)
+40 17 CE 47 5C FC 8B 53 02 01 1A 02 0A 1A 0A FF 4C 00 10 05 01 18 54 32 3F
+@        G  \        S                          L                 T  2  ?
+
+Scan Response:
+Timestamp: 479.434128	Length: 8	RSSI: -55	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 53:8B:FC:5C:47:CE (RPA)
+44 06 CE 47 5C FC 8B 53
+D        G  \        S
+================================================================================
+
+================================================================================
+AdvA: 60:45:CD:81:0A:79 (RPA) RSSI: -55 Hits: 2530
+
+Advertisement:
+Timestamp: 388.152423	Length: 25	RSSI: -55	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 23
+AdvA: 60:45:CD:81:0A:79 (RPA)
+40 17 79 0A 81 CD 45 60 02 01 1A 02 0A 0C 0A FF 4C 00 10 05 0A 1C B6 AF 54
+@     y           E  `                          L                       T
+
+Scan Response:
+Timestamp: 387.879420	Length: 8	RSSI: -55	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 60:45:CD:81:0A:79 (RPA)
+44 06 79 0A 81 CD 45 60
+D     y           E  `
+================================================================================
+
+================================================================================
+AdvA: FA:78:E8:03:35:61 (Static) RSSI: -56 Hits: 231
+
+Advertisement:
+Timestamp: 478.682086	Length: 16	RSSI: -56	Channel: 37	PHY: 1M
+Ad Type: ADV_NONCONN_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 14
+AdvA: FA:78:E8:03:35:61 (Static)
+42 0E 61 35 03 E8 78 FA 07 FF 4C 00 12 02 00 02
+B     a  5        x           L               
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: E2:0A:8A:6C:00:23 (Public) RSSI: -57 Hits: 678
+
+Advertisement:
+Timestamp: 479.294517	Length: 38	RSSI: -57	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 0 RxAdd: 0 Ad Length: 36
+AdvA: E2:0A:8A:6C:00:23 (Public)
+00 24 23 00 6C 8A 0A E2 02 01 06 11 06 BA 56 89 A6 FA BF A2 BD 01 46 7D 6E 00 FB AB AD 08 16 0A 18 1C 04 68 5B 03
+   $  #     l                             V                       F  }  n                                h  [   
+
+Scan Response:
+Timestamp: 479.295361	Length: 21	RSSI: -57	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 0 RxAdd: 0 Ad Length: 19
+AdvA: E2:0A:8A:6C:00:23 (Public)
+04 13 23 00 6C 8A 0A E2 09 09 43 68 61 72 67 65 20 33 02 0A 03
+      #     l                 C  h  a  r  g  e     3         
+================================================================================
+
+================================================================================
+AdvA: 2C:AA:8E:8F:85:ED (Public) RSSI: -68 Hits: 778
+
+Advertisement:
+Timestamp: 459.251617	Length: 33	RSSI: -68	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 0 RxAdd: 0 Ad Length: 31
+AdvA: 2C:AA:8E:8F:85:ED (Public)
+00 1F ED 85 8F 8E AA 2C 02 01 05 07 03 95 FE 67 B1 E7 FE 0D FF 49 06 02 07 00 00 2C AA 8E 8F 85 ED
+                     ,                       g                 I                 ,               
+
+Scan Response:
+Timestamp: 458.251827	Length: 39	RSSI: -66	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 0 RxAdd: 0 Ad Length: 37
+AdvA: 2C:AA:8E:8F:85:ED (Public)
+04 25 ED 85 8F 8E AA 2C 0E 09 57 79 7A 65 20 57 61 74 63 68 20 34 34 0F 16 95 FE 31 20 8F 03 00 2C AA 8E 8F 85 ED 09
+   %                 ,        W  y  z  e     W  a  t  c  h     4  4              1              ,                  
+================================================================================
+
+================================================================================
+AdvA: DE:5E:EE:07:B5:7B (Public) RSSI: -71 Hits: 428
+
+Advertisement:
+Timestamp: 479.612101	Length: 28	RSSI: -71	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 1 TxAdd: 0 RxAdd: 0 Ad Length: 26
+AdvA: DE:5E:EE:07:B5:7B (Public)
+20 1A 7B B5 07 EE 5E DE 02 01 06 0A 16 EA FE 54 4A 44 01 02 00 00 05 09 50 32 32 43
+      {           ^                          T  J  D                    P  2  2  C
+
+Scan Response:
+Timestamp: 479.612865	Length: 36	RSSI: -71	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 0 RxAdd: 0 Ad Length: 34
+AdvA: DE:5E:EE:07:B5:7B (Public)
+04 22 7B B5 07 EE 5E DE 11 15 D0 00 2D 12 1E 4B 0F A4 99 4E CE B5 31 F4 05 79 09 FF EF F0 DE 5E EE 07 B5 7B
+   "  {           ^                 -        K           N        1        y                 ^           {
+================================================================================
+
+================================================================================
+AdvA: 52:D8:B1:D7:98:B1 (RPA) RSSI: -76 Hits: 791
+
+Advertisement:
+Timestamp: 72.463773	Length: 39	RSSI: -76	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 37
+AdvA: 52:D8:B1:D7:98:B1 (RPA)
+40 25 B1 98 D7 B1 D8 52 02 01 1A 1B FF 4C 00 0C 0E 00 A3 C4 6B 9E 22 6C 47 49 DE 79 0D 00 AD 10 06 40 1D E3 15 61 48
+@  %                 R                 L                    k     "  l  G  I     y                 @           a  H
+
+Scan Response:
+Timestamp: 72.464626	Length: 8	RSSI: -76	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 52:D8:B1:D7:98:B1 (RPA)
+44 06 B1 98 D7 B1 D8 52
+D                    R
+================================================================================
+
+================================================================================
+AdvA: 64:0F:D8:AC:3A:B0 (RPA) RSSI: -78 Hits: 1553
+
+Advertisement:
+Timestamp: 479.389372	Length: 25	RSSI: -78	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 23
+AdvA: 64:0F:D8:AC:3A:B0 (RPA)
+40 17 B0 3A AC D8 0F 64 02 01 1A 02 0A 08 0A FF 4C 00 10 05 71 1C 99 E6 83
+@        :           d                          L           q            
+
+Scan Response:
+Timestamp: 479.390112	Length: 8	RSSI: -78	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 64:0F:D8:AC:3A:B0 (RPA)
+44 06 B0 3A AC D8 0F 64
+D        :           d
+================================================================================
+
+================================================================================
+AdvA: FC:17:88:AC:6A:6C (Static) RSSI: -78 Hits: 157
+
+Advertisement:
+Timestamp: 474.069344	Length: 16	RSSI: -78	Channel: 37	PHY: 1M
+Ad Type: ADV_NONCONN_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 14
+AdvA: FC:17:88:AC:6A:6C (Static)
+42 0E 6C 6A AC 88 17 FC 07 FF 4C 00 12 02 00 01
+B     l  j                    L               
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: 74:0B:8C:5B:9D:1F (RPA) RSSI: -78 Hits: 1868
+
+Advertisement:
+Timestamp: 270.873077	Length: 26	RSSI: -78	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 24
+AdvA: 74:0B:8C:5B:9D:1F (RPA)
+40 18 1F 9D 5B 8C 0B 74 02 01 1A 02 0A 0C 0B FF 4C 00 10 06 0B 19 88 95 C4 08
+@           [        t                          L                           
+
+Scan Response:
+Timestamp: 270.328818	Length: 8	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 74:0B:8C:5B:9D:1F (RPA)
+44 06 1F 9D 5B 8C 0B 74
+D           [        t
+================================================================================
+
+================================================================================
+AdvA: 3B:8B:FC:DA:0B:FA (NRPA) RSSI: -79 Hits: 1094
+
+Advertisement:
+Timestamp: 479.398271	Length: 36	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: ADV_NONCONN_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 34
+AdvA: 3B:8B:FC:DA:0B:FA (NRPA)
+42 22 FA 0B DA FC 8B 3B 03 03 6F FD 17 16 6F FD EA A3 A4 CC 48 22 21 80 B7 A3 D2 2F 7D 82 51 61 0D 19 31 2B
+B  "                 ;        o           o                 H  "  !              /  }     Q  a        1  +
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: 74:35:5B:80:BD:FE (RPA) RSSI: -79 Hits: 1960
+
+Advertisement:
+Timestamp: 479.372050	Length: 27	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 25
+AdvA: 74:35:5B:80:BD:FE (RPA)
+40 19 FE BD 80 5B 35 74 02 01 1A 02 0A 07 0C FF 4C 00 10 07 13 1F E1 26 C9 1D 38
+@              [  5  t                          L                    &        8
+
+Scan Response:
+Timestamp: 479.372806	Length: 8	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 74:35:5B:80:BD:FE (RPA)
+44 06 FE BD 80 5B 35 74
+D              [  5  t
+================================================================================
+
+================================================================================
+AdvA: F0:2B:87:25:D8:F5 (Static) RSSI: -79 Hits: 263
+
+Advertisement:
+Timestamp: 478.176240	Length: 16	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: ADV_NONCONN_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 14
+AdvA: F0:2B:87:25:D8:F5 (Static)
+42 0E F5 D8 25 87 2B F0 07 FF 4C 00 12 02 00 03
+B           %     +           L               
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: 11:28:93:44:7A:73 (NRPA) RSSI: -79 Hits: 103
+
+Advertisement:
+Timestamp: 74.992677	Length: 35	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 33
+AdvA: 11:28:93:44:7A:73 (NRPA)
+40 21 73 7A 44 93 28 11 13 09 52 61 79 63 6F 6E 20 45 35 35 20 45 61 72 62 75 64 73 06 FF 12 34 56 78 90
+@  !  s  z  D     (           R  a  y  c  o  n     E  5  5     E  a  r  b  u  d  s           4  V  x   
+
+Scan Response:
+Timestamp: 74.993497	Length: 8	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 11:28:93:44:7A:73 (NRPA)
+44 06 73 7A 44 93 28 11
+D     s  z  D     (   
+================================================================================
+
+================================================================================
+AdvA: 71:A6:02:2C:14:54 (RPA) RSSI: -79 Hits: 2041
+
+Advertisement:
+Timestamp: 479.503761	Length: 39	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 37
+AdvA: 71:A6:02:2C:14:54 (RPA)
+40 25 54 14 2C 02 A6 71 02 01 1A 1B FF 4C 00 0C 0E 00 CA C4 EA 92 40 D6 9B B5 CB EF F0 E5 B2 10 06 49 1D 36 CD 0D 18
+@  %  T     ,        q                 L                          @                                I     6         
+
+Scan Response:
+Timestamp: 479.320861	Length: 8	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 71:A6:02:2C:14:54 (RPA)
+44 06 54 14 2C 02 A6 71
+D     T     ,        q
+================================================================================
+
+================================================================================
+AdvA: 48:C4:54:6A:5A:59 (RPA) RSSI: -79 Hits: 1
+
+Advertisement:
+Timestamp: 456.839992	Length: 26	RSSI: -79	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 24
+AdvA: 48:C4:54:6A:5A:59 (RPA)
+40 18 59 5A 6A 54 C4 48 02 01 1A 02 0A 0C 0B FF 4C 00 10 06 07 1D 1A C1 F2 38
+@     Y  Z  j  T     H                          L                          8
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: CF:16:38:62:55:EE (Static) RSSI: -80 Hits: 163
+
+Advertisement:
+Timestamp: 442.870594	Length: 16	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 14
+AdvA: CF:16:38:62:55:EE (Static)
+40 0E EE 55 62 38 16 CF 07 FF 4C 00 12 02 37 03
+@        U  b  8              L           7   
+
+Scan Response: None
+================================================================================
+
+================================================================================
+AdvA: 43:F4:72:6E:D1:03 (RPA) RSSI: -80 Hits: 844
+
+Advertisement:
+Timestamp: 462.937342	Length: 25	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 23
+AdvA: 43:F4:72:6E:D1:03 (RPA)
+40 17 03 D1 6E 72 F4 43 02 01 1A 02 0A 07 0A FF 4C 00 10 05 2F 1C C4 83 6C
+@           n  r     C                          L           /           l
+
+Scan Response:
+Timestamp: 462.938082	Length: 8	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 43:F4:72:6E:D1:03 (RPA)
+44 06 03 D1 6E 72 F4 43
+D           n  r     C
+================================================================================
+
+================================================================================
+AdvA: 4B:F7:68:DD:5B:47 (RPA) RSSI: -80 Hits: 210
+
+Advertisement:
+Timestamp: 380.963205	Length: 38	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: ADV_IND
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 36
+AdvA: 4B:F7:68:DD:5B:47 (RPA)
+40 24 47 5B DD 68 F7 4B 02 01 1A 1A FF 4C 00 0C 0E 00 8D F6 E0 3E 00 FC BB 6B 7D 40 4A 9A CC 10 05 62 1C 8B AC 9C
+@  $  G  [     h     K                 L                       >           k  }  @  J              b            
+
+Scan Response:
+Timestamp: 379.837450	Length: 8	RSSI: -80	Channel: 37	PHY: 1M
+Ad Type: SCAN_RSP
+ChSel: 0 TxAdd: 1 RxAdd: 0 Ad Length: 6
+AdvA: 4B:F7:68:DD:5B:47 (RPA)
+44 06 47 5B DD 68 F7 4B
+D     G  [     h     K
+================================================================================
+
